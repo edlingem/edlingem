@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 My name is Marc and I'm 14 years old
+- 💬 My name is Marc and I'm 15 years old
 - 🔑 Student at HTL-Villach
 - 🧙‍♂️ Interested in software development
 
